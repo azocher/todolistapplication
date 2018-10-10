@@ -1,0 +1,24 @@
+body {
+  background-color: red;
+}
+
+#switcher {
+  list-style: none;
+}
+
+#switcher li {
+  width: 30px;
+  height: 30px;
+  float: left;
+  display: inline;
+  border: 1px black solid;
+}
+
+#grayButton {
+  background-color: gray;
+}
+
+#whiteButton {
+  background-color: white;
+  margin-right: 10px;
+}
